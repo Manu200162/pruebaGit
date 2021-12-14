@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -name: Primer Paso
-      run: echo "Hola Clase"
+       run: echo "Hola Clase"
