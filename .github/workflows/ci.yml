@@ -12,3 +12,5 @@ jobs:
         run: echo "Hola Clase"
       - name: Listado de archivos
         run: ls
+      - name: Mostrar Readme
+        run: cat README.md
